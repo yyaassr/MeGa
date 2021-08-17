@@ -1,0 +1,36 @@
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
+
+Error: Your user does not have write permissions in /usr/local/lib/luarocks/rocks 
+-- you may want to run as a privileged user or use your local tree with --local.
